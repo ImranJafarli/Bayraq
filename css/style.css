@@ -1,0 +1,25 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+.goy{
+    width: 1350px;
+    height: 210px;
+    background-color: blue;
+}
+
+body
+.qirmizi{
+    width: 1350px;
+    height: 210px;
+    background-color: red;
+background-image: url(../image/aypara-v-s-kkizgus-li-ulduz-logo-63D156995F-seeklogo.com.png) ; 
+background-repeat: no-repeat;
+background-position: center;   
+}
+.yasil{
+    width: 1350px;
+    height: 210px;
+    background-color: green;
+}
